@@ -1,0 +1,79 @@
+---
+title: "AEET"
+author: "I. Bartomeus"
+date: "8/28/2017"
+output: 
+  flexdashboard::flex_dashboard:
+    orientation: rows
+    social: menu
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+Sidebar {.sidebar}
+=======================================================================
+
+### El Problema
+
+Todos conocemos la abeja de la miel, pero pocos saben que, junto a ella, hay más de mil especies diferentes de abejas, y eso solo en España. Eso significa que hay más del doble de especies de abejas que de pájaros. Entre todas nos brindan un servicio muy importante: polinizar las flores de muchas plantas para que den fruto. Pero, ¿qué sabemos del estado de cientos de especies de abejas en España? Desgraciadamente muy poco. 
+
+Tenemos datos de Estados Unidos y Europa que muestran que muchas especies están en declive, pero también hay que decir que unas pocas especies se están adaptando bien al cambio global. Podríamos decir que tenemos muchos perdedores y pocos ganadores. Las causas de estos declives son variadas. La primera es la pérdida de hábitat. Más del 40% de la superficie terrestre libre de hielo está modificada por el hombre, especialmente para uso agrícola. Muchas abejas no pueden prosperar en estos ambientes ya que no encuentran alimento o sitios donde nidificar. Pero, incluso las especies que pueden adaptarse a estos ambientes, se ven afectadas por el grado de perturbación humana. El cambio climático también afecta a las abejas, por ejemplo, su periodo de actividad ya ha avanzado unas dos semanas respecto a hace 50 años y el rango de distribución de los abejorros ha disminuído sustancialmente. Las especies de abejas exóticas introducidas por el hombre también están trayendo consigo nuevos patógenos, algunos de ellos responsables de la casi desaparición de una especie de abejorro (_Bombus affinis_) en Estados Unidos. Finalmente, las abejas que pueden usar zonas agrícolas se ven expuestas a pesticidas. No es de extrañar que se vean afectadas por ellos, ya que los insecticidas, como los neonicotinoides y otros, están diseñados para matar insectos, pero también también se ven afectadas por los fungicidas, que eliminan su flora bacteriana, y los herbicidas, que reducen sus recursos florales ("malas" hierbas para el agricultor pero alimento necesario para las abejas).
+
+
+La crisis de los polinizadores
+=======================================================================
+
+Row
+-----------------------------------------------------------------------
+
+### Los numeros: 
+
+- Diversidad: 20.000 species  
+- España: 1000 species  
+- Modo de vida: SOlitarios en un 50%  
+- 80% de plantas dependen de polinizadores para su reproducción
+- 75% de los cultivos mejoran la producción con polinizadores
+- X EUR ...
+
+### Glosario:
+
+- **Polinización**: 
+- **Neonicotinoides**:
+- **
+
+Row
+-----------------------------------------------------------------------
+
+### Foto
+
+![Una abeja solitaria, _Anthidium florentinum_, visitando Lantana (CC)](https://upload.wikimedia.org/wikipedia/commons/c/c4/Anthidium_February_2008-1.jpg)
+
+### Foto
+
+![Un abejorro llevando pollen en sis cestas de pollen (corbicula) (CC)](https://upload.wikimedia.org/wikipedia/commons/4/44/Bumblebee_05.JPG)
+
+### Foto
+
+![La abeja solitaria _Osmia cornifrons_ nidifica en agujeros de la madera. (CC)](https://upload.wikimedia.org/wikipedia/commons/5/57/Osmia_cornifrons.5.1.08.w.jpg)
+
+### Foto
+
+![Los sirfidos tambien son buenos polinizadores _Episyrphus balteatus_ en una flor (CC)](https://upload.wikimedia.org/wikipedia/commons/c/c6/Hoverfly_October_2007-21.jpg)
+
+Row
+-----------------------------------------------------------------------
+
+### Citas {data-width=700}
+
+> "los polinizadores estan mal"  (Ignasi Bartomeus, EBD-CSIC)  
+
+> "La situaciín es picupante"  (anonimo)  
+
+### Recursos {data-width=340}
+
+- [video: Que les pasa a las abejas?](https://www.youtube.com/watch?v=n5udBqq3qYg)
+- [Articulo en quercus por el grupo de trabajo ECOFLOR](www.quercus.es)
+- [Especial Ecosistemas](www.revistaecosistemas.es)
+- [otros](www.otros.es)

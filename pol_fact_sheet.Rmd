@@ -17,9 +17,7 @@ Sidebar {.sidebar}
 
 ### El Problema
 
-Todos conocemos la abeja de la miel, pero pocos saben que, junto a ella, hay más de mil especies diferentes de abejas, y eso solo en España. Eso significa que hay más del doble de especies de abejas que de pájaros. Entre todas nos brindan un servicio muy importante: polinizar las flores de muchas plantas para que den fruto. Pero, ¿qué sabemos del estado de cientos de especies de abejas en España? Desgraciadamente muy poco. 
-
-Tenemos datos de Estados Unidos y Europa que muestran que muchas especies están en declive, pero también hay que decir que unas pocas especies se están adaptando bien al cambio global. Podríamos decir que tenemos muchos perdedores y pocos ganadores. Las causas de estos declives son variadas. La primera es la pérdida de hábitat. Más del 40% de la superficie terrestre libre de hielo está modificada por el hombre, especialmente para uso agrícola. Muchas abejas no pueden prosperar en estos ambientes ya que no encuentran alimento o sitios donde nidificar. Pero, incluso las especies que pueden adaptarse a estos ambientes, se ven afectadas por el grado de perturbación humana. El cambio climático también afecta a las abejas, por ejemplo, su periodo de actividad ya ha avanzado unas dos semanas respecto a hace 50 años y el rango de distribución de los abejorros ha disminuído sustancialmente. Las especies de abejas exóticas introducidas por el hombre también están trayendo consigo nuevos patógenos, algunos de ellos responsables de la casi desaparición de una especie de abejorro (_Bombus affinis_) en Estados Unidos. Finalmente, las abejas que pueden usar zonas agrícolas se ven expuestas a pesticidas. No es de extrañar que se vean afectadas por ellos, ya que los insecticidas, como los neonicotinoides y otros, están diseñados para matar insectos, pero también también se ven afectadas por los fungicidas, que eliminan su flora bacteriana, y los herbicidas, que reducen sus recursos florales ("malas" hierbas para el agricultor pero alimento necesario para las abejas).
+Las causas del declive de muchas especies de polinizadores son variadas. La primera es __la pérdida de hábitat__. Más del 40% de la superficie terrestre libre de hielo está modificada por el hombre, especialmente para uso agrícola. Muchos polinizadores no pueden prosperar en estos ambientes ya que no encuentran alimento o sitios donde nidificar. __El cambio climático__ también afecta a los polinizadores, por ejemplo, su periodo de actividad ya ha avanzado unas dos semanas respecto a hace 50 años y el rango de distribución de los abejorros ha disminuído sustancialmente. Las __especies exóticas introducidas por el hombre__ también están trayendo consigo nuevos __patógenos__, algunos de ellos responsables de la casi desaparición de una especie de abejorro (_Bombus affinis_) en Estados Unidos. Finalmente, las abejas que pueden usar zonas agrícolas se ven expuestas a __pesticidas__. No es de extrañar que se vean afectadas por ellos, ya que los insecticidas, como los neonicotinoides y otros, están diseñados para matar insectos, pero también también se ven afectadas por los fungicidas, que eliminan su flora bacteriana, y los herbicidas, que reducen sus recursos florales.
 
 
 La crisis de los polinizadores
@@ -28,20 +26,13 @@ La crisis de los polinizadores
 Row
 -----------------------------------------------------------------------
 
-### Los numeros: 
+### Datos: 
 
-- Diversidad: 20.000 species  
-- España: 1000 species  
-- Modo de vida: SOlitarios en un 50%  
-- 80% de plantas dependen de polinizadores para su reproducción
-- 75% de los cultivos mejoran la producción con polinizadores
-- X EUR ...
-
-### Glosario:
-
-- **Polinización**: 
-- **Neonicotinoides**:
-- **
+- El 80% de las plantas dependen de los polinizadores para su reproducción
+- El beneficio mundial de los polinizadores para los cultivos se estima en 153 billiones de EUR anuales. 
+- Los principales polinizadores en España son abejas, dipteros, escarabajos y lepidopteros.
+- Tan solo en España hay más de 1.000 species de abejas (el doble que de pajaros).  
+- La mayoria de abejas viven solitarias y no producen miel.
 
 Row
 -----------------------------------------------------------------------
@@ -67,13 +58,13 @@ Row
 
 ### Citas {data-width=700}
 
-> "los polinizadores estan mal"  (Ignasi Bartomeus, EBD-CSIC)  
+> "A pesar de las amenazas, aun estamos a tiempo de conservar a los polinizadores y el precioso servicio que nos brindan, pero hemos de actuar ya"  (Ignasi Bartomeus, EBD-CSIC)  
 
-> "La situaciín es picupante"  (anonimo)  
+> "Estamos protegeniendo a la abeja equivocada, las abejas silvestres necesitan más atención que la abeja de la miel"  (Ainhoa Magrach, BC3)  
 
 ### Recursos {data-width=340}
 
 - [video: Que les pasa a las abejas?](https://www.youtube.com/watch?v=n5udBqq3qYg)
-- [Articulo en quercus por el grupo de trabajo ECOFLOR](www.quercus.es)
-- [Especial Ecosistemas](www.revistaecosistemas.es)
-- [otros](www.otros.es)
+- [Articulo en quercus escrito por el grupo de trabajo ECOFLOR](https://ibartomeus.files.wordpress.com/2015/08/ecoflor_2016-declive-de-las-abejas-quercus.pdf)
+- [Especial crisis de los polinizadores en la Ecosistemas](www.revistaecosistemas.es)
+

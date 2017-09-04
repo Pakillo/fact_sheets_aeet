@@ -1,7 +1,7 @@
 ---
 title: "AEET"
 author: "I. Bartomeus"
-date: "8/28/2017"
+date: Sys.Date()
 output: 
   flexdashboard::flex_dashboard:
     orientation: rows
@@ -26,7 +26,7 @@ La crisis de los polinizadores
 Row
 -----------------------------------------------------------------------
 
-### Datos: 
+### Los datos: 
 
 - El 80% de las plantas dependen de los polinizadores para su reproducción
 - El beneficio mundial de los polinizadores para los cultivos se estima en 153 billiones de EUR anuales. 
@@ -39,11 +39,11 @@ Row
 
 ### Foto
 
-![Una abeja solitaria, _Anthidium florentinum_, visitando Lantana (CC)](https://upload.wikimedia.org/wikipedia/commons/c/c4/Anthidium_February_2008-1.jpg)
+![Una abeja solitaria, _Anthidium florentinum_, visitando Lantana (CC)](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Anthidium_February_2008-1.jpg/300px-Anthidium_February_2008-1.jpg)
 
 ### Foto
 
-![Un abejorro llevando pollen en sis cestas de pollen (corbicula) (CC)](https://upload.wikimedia.org/wikipedia/commons/4/44/Bumblebee_05.JPG)
+![Un abejorro llevando pollen en sis cestas de pollen (corbicula) (CC)](https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Bumblebee_05.JPG/320px-Bumblebee_05.JPG)
 
 ### Foto
 
@@ -51,7 +51,7 @@ Row
 
 ### Foto
 
-![Los sirfidos tambien son buenos polinizadores _Episyrphus balteatus_ en una flor (CC)](https://upload.wikimedia.org/wikipedia/commons/c/c6/Hoverfly_October_2007-21.jpg)
+![Los sirfidos tambien son buenos polinizadores _Episyrphus balteatus_ en una flor (CC)](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Hoverfly_October_2007-21.jpg/297px-Hoverfly_October_2007-21.jpg)
 
 Row
 -----------------------------------------------------------------------
@@ -60,11 +60,11 @@ Row
 
 > "A pesar de las amenazas, aun estamos a tiempo de conservar a los polinizadores y el precioso servicio que nos brindan, pero hemos de actuar ya"  (Ignasi Bartomeus, EBD-CSIC)  
 
-> "Estamos protegeniendo a la abeja equivocada, las abejas silvestres necesitan más atención que la abeja de la miel"  (Ainhoa Magrach, BC3)  
+> "Para mantener una polinización estable necesitamos conservar las especies de polinizadores silvestres"  (Ainhoa Magrach, BC3)  
 
 ### Recursos {data-width=340}
 
 - [video: Que les pasa a las abejas?](https://www.youtube.com/watch?v=n5udBqq3qYg)
 - [Articulo en quercus escrito por el grupo de trabajo ECOFLOR](https://ibartomeus.files.wordpress.com/2015/08/ecoflor_2016-declive-de-las-abejas-quercus.pdf)
-- [Especial crisis de los polinizadores en la Ecosistemas](www.revistaecosistemas.es)
+- [Especial crisis de los polinizadores en la revista Ecosistemas](www.revistaecosistemas.es)
 

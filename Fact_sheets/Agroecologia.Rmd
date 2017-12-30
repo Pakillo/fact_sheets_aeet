@@ -1,0 +1,76 @@
+---
+title: "AEET"
+author: "José Herrera"
+date: "`r Sys.Date()`"
+output: 
+  flexdashboard::flex_dashboard:
+    orientation: rows
+    social: menu
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+Sidebar {.sidebar}
+=======================================================================
+
+### Los datos: 
+
+- Más del 40% de la superficie terrestre global está actualmente destinada a uso agrícola
+- El uso de fertilizantes y agroquímicos ha aumentado en más de un 700% sólo en las últimas décadas
+- Los cambios en el uso del suelo y la intensificación de las prácticas agrícolas están consideradas como los principales motores de pérdida global de biodiversidad
+- Todos los grupos taxonómicos, incluyendo animales y plantas, se ven afectados por estos cambios ambientales
+
+```{r, echo=FALSE, out.width="100%", message=FALSE, warning=FALSE}
+library(knitr)
+include_graphics("http://onlinelibrary.wiley.com/store/10.1111/gcb.12838/asset/image_n/gcb12838-fig-0003.png?v=1&t=jbt4teh2&s=31b44f3e8bbc2e5d598b5af219e53d9735e86c9d")
+
+```
+Porcentage de área cultivada o cultivable en cuadrículas de 1 x 1 km. Extraído de [Fritz et al. 2015](http://onlinelibrary.wiley.com/doi/10.1111/gcb.12838/abstract)
+
+Conservación de la biodiversidad en sistemas agrícolas
+=======================================================================
+
+Row
+-----------------------------------------------------------------------
+
+### El Problema
+
+Actualmente, los sistemas agrícolas están considerados como uno de los mayores biomas terrestres que existen en la tierra; los llamados agroecosistemas. Innumerables especies animales y vegetales, sin embargo, se han perdido o se perderán en el futuro con la conversión del paisaje a uso agrícola y/o la intensificación de las prácticas agrícolas. Con ello, determinados procesos ecológicos que garantizan no sólo la funcionalidad de los remanentes de hábitat natural, sino también nuestro propio bienestar (los así llamados servicios ecosistémicos), se ven mermados o extinguidos. Esto convierte a los agroecosistemas en un importante escenario de conservación de la biodiversidad no sólo desde un punto de vista ecológico, sino tambien desde una perspectiva social y económica. Así, la investigación de los mecanismos que garantizan la sostenibilidad del manejo y la producción de los agroecosistemas es esencial para garantizar la producción agrícola sin poner en riesgo la biodiversidad y en definitiva nuestro propio bienestar como seres humanos.        
+
+Row
+-----------------------------------------------------------------------
+
+### Foto
+
+![Scrotophilus dinganii. Los murciélagos consumen ingentes cantidades de insectos cada noche, actuando así como controladores de plagas de cultivos](https://d1lds9cvq82c7x.cloudfront.net/wp-content/uploads/2017/07/Bats-2-S-dinganii.jpg)
+
+### Foto
+
+![Turdus merula. Las aves, como los murciélagos, actúan como efectivos controladores de plagas en sistemas agrícolas](https://www.tiendanimal.es/images/descimages/mirlo.jpg)
+
+### Foto
+
+![Una gran variedad de insectos proporcionan servicios de polinización en cultivos](http://agronomaster.com/wp-content/uploads/2017/05/Abeja-polinizadora.jpg)
+
+### Foto
+
+![Las plantas silvestres proporcionan un importante recurso alternativo para innumerables especies, por ejemplo de polinizadores](https://equitecbalearlapaz.files.wordpress.com/2016/04/dsc_0021.jpg?w=1000)
+
+Row
+-----------------------------------------------------------------------
+
+### Citas {data-width=700}
+
+_"En la actualidad, nos enfrentamos al enorme desafío de mantener el equilibrio entre las necesidades humanas y la capacidad de los sistemas de proporcionarnos dichas necesidades"_  ([Jonathan A. Foley])   
+
+_"La sociedad es parte fundamental no sólo del problema, tambien de la solución"_  ([Joern Fischer])   
+
+
+### Recursos {data-width=340}
+
+- [Ted talk de Jonathan A. Foley](https://www.ted.com/talks/jonathan_foley_the_other_inconvenient_truth?language=es)
+- [Web "Ideas for Sustainability" de Joern Fischer](https://ideas4sustainability.wordpress.com/)
+
+

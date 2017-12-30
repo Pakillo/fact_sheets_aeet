@@ -1,0 +1,77 @@
+---
+title: "AEET"
+author: "Carolina Puerta-Piñero"
+date: "`r Sys.Date()`"
+output: 
+  flexdashboard::flex_dashboard:
+    orientation: rows
+    social: menu
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+Sidebar {.sidebar}
+=======================================================================
+
+### Los datos: 
+
+- La zona tropical contiene un 37% de la superficie terrestre.   
+- En la región tropical, la pérdida anual neta de superficie forestal entre 2000-2010 fue de aproximadamente 7 millones de hectareas.    
+- Los bosques tropicales se distribuyen en las regiones de Asia y Pacífico (338 millones de hectáreas), África (529 millones de hectáreas) y América Latina y Caribe (924 millones de hectáreas).   
+- En los paises tropicales y subtropicales la agricultura comercial a gran escala y la agricultura de subsistencia originaron el 73% de la deforestación.   
+- El 89,15% de los bosques presentes en paises en desarrollo corresponden a bosques tropicales, frente al 10.85% de otro tipo de bosque en estas zonas.   
+- Se estima que en la Tierra pueden exisitir 450.000 especies de plantas con flores, de las que dos terceras partes viven en las regiones tropicales. Además una tercerca parte del total está en riesgo de extinción y se pueden extinguir a una tasa de entre 1000 y 10000 veces más rápido de lo que ha ocurrido en el pasado.  
+- Las especies tropicales son más vulnerables al cambio climático porque tienen menor tolerancia térmica.  
+
+Biodiversidad en los trópicos
+=======================================================================
+
+Row
+-----------------------------------------------------------------------
+
+### El Problema
+
+Comparativamente con otros biomas de la Tierra, las regiones tropicales son especialmente importantes por su enorme complejidad biológica y sus fuertes implicaciones frente al cambio global. Estas áreas concentran la mayor diversidad biológica y cultural del mundo. En una parcela de una sola hectárea en el noroeste de la Amazonia, existen más especies de árboles que en toda la Península Ibérica, pese a tratarse de la región más diversa de la Unión Europea. Además, alojan una gran diversidad cultural, conformada por centenares de pueblos indígenas que viven y dependen por completo, aún hoy, de los recursos naturales que les proporciona el bosque tropical. Una buena parte del necesario secuestro de carbono y provisión de oxígeno imprescindible para la vida humana se obtiene de estas regiones. Sin embargo, actualmente presentan fuertes amenazas por la apertura de carreteras, explotación minera, construcción de embalses con fines energéticos o ampliación de la denominada “frontera agrícola”. Todo ello lleva asociado una gran deforestación que pone en peligro su funcionamiento y los servicios que proveen a la sociedad. Es por ello que, entender el funcionamiento de estos ecosistemas es vital para hacer frente al cambio global, a la vez que es un deber moral estudiarlos para poder preservarlos. Estudiar la ecología de las regiones tropicales ha sido importante siempre, pero quizá ahora, con el inminente reto de la humanidad frente al cambio global se ha intensificado la preocupación por ampliar conocimientos e implicaciones y, con ellos, dar más respuestas desde el ámbito científico. 
+
+
+Row
+-----------------------------------------------------------------------
+
+### Foto
+
+![Bosque de tierra firme, Amazonia](https://imgur.com/l49dRox)
+
+### Foto
+
+![Expedición en PN Madidi Bolivia](https://imgur.com/icbGZL4)
+
+### Foto
+
+![_Hasseltia floribunda_ Salicaceae](https://imgur.com/pk1HqKN)
+
+### Foto
+
+![Río Tequeje Amazonia de Bolivia](https://imgur.com/457Ck1X)
+
+Row
+-----------------------------------------------------------------------
+
+### Citas {data-width=700}
+
+_“La pérdida de especies, cambios de uso del suelo o aumento de la fragmentación de hábitats en regiones tropicales tienen una importancia global y nos afectan a todos los pobladores del Planeta”_ [Carolina Puerta Piñero](https://sites.google.com/site/carolinapuertapinero/) IFAPA, carolina.puerta@juntadeandalucia.es
+
+_“Entender el funcionamiento de los ecosistemas tropicales es vital para protegernos del cambio global”_ [Manuel J. Macía](http://www.grupoecologiatropical.com/staff-member/manuel-j-macia-2), UAM, manuel.macia@uam.es. 
+
+### Recursos {data-width=340}
+
+- Monográficos especiales de la revista Ecosistemas:
+[El bosque seco neotropical de la provincia Ecuatoriana](https://www.revistaecosistemas.net/index.php/ecosistemas/issue/view/48)
+
+- [Biodiversidad y conservación de bosques Neotropicales](https://www.revistaecosistemas.net/index.php/ecosistemas/issue/view/2)
+
+- Vídeo sobre [el estado de los bosques del mundo 2016](https://youtu.be/PyDSjI-NOGI)
+
+- Página de la red de biología tropical [Redtrop](http://www.redtrop.net/)
+

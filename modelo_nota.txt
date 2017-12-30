@@ -25,7 +25,7 @@ Sidebar {.sidebar}
 Adjuntar grafico si es necesario
 
 
-La crisis de los polinizadores
+Titulo
 =======================================================================
 
 Row

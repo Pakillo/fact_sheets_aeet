@@ -1,0 +1,76 @@
+---
+title: "AEET"
+author: "Indicar aquí el Autor o Grupo de trabajo"
+date: "`r Sys.Date()`"
+output: 
+  flexdashboard::flex_dashboard:
+    orientation: rows
+    social: menu
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+Sidebar {.sidebar}
+=======================================================================
+
+### Los datos: 
+
+- Rellenar aqui el dato uno (unos 100 caracteres)
+- Rellenar aqui el dato dos (unos 100 caracteres)
+- Rellenar aqui el dato tres (unos 100 caracteres)
+- Rellenar aqui el dato cuatro (unos 100 caracteres)
+- Rellenar aqui el dato cinco (unos 100 caracteres) Añadir más si lineas si es necesario. 
+Adjuntar grafico si es necesario
+
+
+La crisis de los polinizadores
+=======================================================================
+
+Row
+-----------------------------------------------------------------------
+
+### El Problema
+
+Describir el problema en unas 10-15 lineas
+
+Row
+-----------------------------------------------------------------------
+
+### Foto
+
+![pie de foto y autor](https://direccionURL.com/nombredelafoto.jpg)
+
+### Foto
+
+![pie de foto y autor](https://direccionURL.com/nombredelafoto.jpg)
+
+### Foto
+
+![pie de foto y autor](https://direccionURL.com/nombredelafoto.jpg)
+
+### Foto
+
+![pie de foto y autor](https://direccionURL.com/nombredelafoto.jpg)
+
+Row
+-----------------------------------------------------------------------
+
+### Citas {data-width=700}
+
+_"Cita textual de un cientifico entendido en el tema"_  ([Nombre del cientifico](www.webdelcientifico.com), Afiliación, email de contacto)   
+
+_"Cita textual de un cientifico entendido en el tema"_  ([Nombre del cientifico](www.webdelcientifico.com), Afiliación, email de contacto)   
+
+_"Cita textual de un cientifico entendido en el tema"_  ([Nombre del cientifico](www.webdelcientifico.com), Afiliación, email de contacto)   
+
+### Recursos {data-width=340}
+
+- [Recurso](https://www.linkalrecurso.com)
+- [Recurso](https://www.linkalrecurso.com)
+- [Recurso](https://www.linkalrecurso.com)
+- [Recurso](https://www.linkalrecurso.com)
+- [Recurso](https://www.linkalrecurso.com)
+- [Recurso](https://www.linkalrecurso.com)
+

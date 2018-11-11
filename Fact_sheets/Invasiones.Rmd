@@ -22,7 +22,7 @@ Sidebar {.sidebar}
 - Existen en la actualidad más 14.000 especies no nativas en territorio europeo, de acuerdo a las bases de datos centralizadas por EASIN ([European Alien Species Information Network](https://easin.jrc.ec.europa.eu/)).  
 - Los costes ascienden a >20 millones de euros al año y no se espera que disminuyan, dado que en las últimas décadas el número de invasoras no ha dejado de crecer (76% entre 1970 y 2007).  
 - En España existen unas 1500 especies no-nativas, de las cuales 180 están incluidas en el Catálogo Nacional de Especies Invasoras ([CNEEI](http://www.mapama.gob.es/)).   
-- Ni tan siquiera los espacios protegidos se libran de esta amenaza. Existen al menos 180 especies no-nativas en los Parques Nacionales españoles, destacando las Islas Atlánticas de Galicia y Doñana como los parques más afectados.  
+- Ni tan siquiera los espacios protegidos se libran de esta amenaza. Existen al menos 180 especies no-nativas en los Parques Nacionales españoles, destacando las Islas Atlánticas de Galicia y Doñana como los parques más afectados.   
 
 ```{r iucn, echo=FALSE, fig.height=2, fig.width=2, message=FALSE, warning=FALSE}
 n = 100
@@ -32,6 +32,7 @@ pie(x = c(57/n, 30/n, 7/n, 6/n) ,
     labels = c("", "", "", "", "", ""),
     col = c("red", "orange", "yellow", "darkgreen"))
 ```
+
 Un total de 180 organismos están incluidos en el Catálogo Nacional de Especies Exóticas Invasoras (CEEI). La mayoria plantas (rojo), insectos (naranja) y vertebrados (verde). Otros grupos en amarillo.
 
 Las invasiones biológicas
@@ -68,9 +69,9 @@ Row
 
 ### Citas {data-width=700}
 
-_“Frente al abrumador número de especies invasoras que amenaza la biodiversidad, la ciencia nos proporciona herramientas con las que priorizar objetivamente las especies y las regiones sobre las que actuar en primer lugar”._ [Laura Capdevila](https://www.researchgate.net/profile/Laura_Capdevila-Argueelles), GEIB, geib.uc@gmail.com  
-- _“La mayoría de las especies invasoras son muy difíciles, por no decir imposibles, de erradicar, por lo que debemos de invertir nuestros mayores esfuerzos en la prevención.”_ [Montse Vilà](http://www.montsevila.org/), EBD-CSIC, montse.vila@ebd.csic.es	  
-- _“Europa y España cuentan con regulaciones que ponen el énfasis en 1-la prevención 2-la detección temprana y 3-la respuesta inmediata frente a las especies invasoras. Pero todavía es necesario un mayor compromiso por parte de las administraciones competentes para hacer cumplir la legislación.”_ [Belinda Gallardo](https://www.researchgate.net/profile/Belinda_Gallardo), IPE-CSIC, belinda@ipe.csic.es  
+_“Frente al abrumador número de especies invasoras que amenaza la biodiversidad, la ciencia nos proporciona herramientas con las que priorizar objetivamente las especies y las regiones sobre las que actuar en primer lugar”._ [Laura Capdevila](https://www.researchgate.net/profile/Laura_Capdevila-Argueelles), GEIB, geib.uc@gmail.com   
+- _“La mayoría de las especies invasoras son muy difíciles, por no decir imposibles, de erradicar, por lo que debemos de invertir nuestros mayores esfuerzos en la prevención.”_ [Montse Vilà](http://www.montsevila.org/), EBD-CSIC, montse.vila@ebd.csic.es	 
+- _“Europa y España cuentan con regulaciones que ponen el énfasis en 1-la prevención 2-la detección temprana y 3-la respuesta inmediata frente a las especies invasoras. Pero todavía es necesario un mayor compromiso por parte de las administraciones competentes para hacer cumplir la legislación.”_ [Belinda Gallardo](https://www.researchgate.net/profile/Belinda_Gallardo), IPE-CSIC, belinda@ipe.csic.es   
 
 ### Recursos {data-width=340}
 

@@ -63,9 +63,10 @@ Row
 
 ### Citas {data-width=700}
 
-_"En la actualidad, nos enfrentamos al enorme desafío de mantener el equilibrio entre las necesidades humanas y la capacidad de los sistemas de proporcionarnos dichas necesidades"_  ([Jonathan A. Foley])   
+_"En la actualidad, nos enfrentamos al enorme desafío de mantener el equilibrio entre las necesidades humanas y la capacidad de los sistemas de proporcionarnos dichas necesidades"_  ([José Herrera](herreramirlo@gmail.com
+))   
 
-_"La sociedad es parte fundamental no sólo del problema, tambien de la solución"_  ([Joern Fischer])   
+_"La sociedad es parte fundamental no sólo del problema, tambien de la solución"_  ([Ignasi Bartomeus](www.bartomeuslab.com), EBD-CSIC, nacho.bartomeus@gmail.com)   
 
 
 ### Recursos {data-width=340}

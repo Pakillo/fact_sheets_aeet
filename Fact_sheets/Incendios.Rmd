@@ -6,8 +6,7 @@ output:
   flexdashboard::flex_dashboard:
     orientation: rows
     social: menu
-    self_contained: no
-  
+
 ---
 
 ```{r setup, include=FALSE}

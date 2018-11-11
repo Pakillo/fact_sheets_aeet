@@ -33,6 +33,7 @@ pie(x = c(57/n, 30/n, 7/n, 6/n) ,
     col = c("red", "orange", "yellow", "darkgreen"))
 ```
 
+
 Un total de 180 organismos están incluidos en el Catálogo Nacional de Especies Exóticas Invasoras (CEEI). La mayoria plantas (rojo), insectos (naranja) y vertebrados (verde). Otros grupos en amarillo.
 
 Las invasiones biológicas

@@ -24,7 +24,7 @@ Sidebar {.sidebar}
 
 ```{r, echo=FALSE, out.width="100%", message=FALSE, warning=FALSE}
 library(knitr)
-include_graphics("http://onlinelibrary.wiley.com/store/10.1111/gcb.12838/asset/image_n/gcb12838-fig-0003.png?v=1&t=jbt4teh2&s=31b44f3e8bbc2e5d598b5af219e53d9735e86c9d")
+include_graphics("../temps/map.jpg")
 
 ```
 Porcentage de área cultivada o cultivable en cuadrículas de 1 x 1 km. Extraído de [Fritz et al. 2015](http://onlinelibrary.wiley.com/doi/10.1111/gcb.12838/abstract)
@@ -44,34 +44,36 @@ Row
 
 ### Foto
 
-![Scrotophilus dinganii. Los murciélagos consumen ingentes cantidades de insectos cada noche, actuando así como controladores de plagas de cultivos](https://d1lds9cvq82c7x.cloudfront.net/wp-content/uploads/2017/07/Bats-2-S-dinganii.jpg)
+![Muchas especies de vertebrados, como aves insectivoras, consumen grandes cantidades de insectos diariamente actuando así como efectivos controladores de plagas de cultivos (Foto: David Álvarez, CC-by)](../temps/Fig1.jpg)
 
 ### Foto
 
-![Turdus merula. Las aves, como los murciélagos, actúan como efectivos controladores de plagas en sistemas agrícolas](https://www.tiendanimal.es/images/descimages/mirlo.jpg)
+![El uso de abrigos artificiales es una medida tan efectiva como sencilla para aumentar la biodiversidad dentro de los agroecosistemas (Foto: David Álvarez, CC-by)](../temps/Fig2.jpg)
 
 ### Foto
 
-![Una gran variedad de insectos proporcionan servicios de polinización en cultivos](http://agronomaster.com/wp-content/uploads/2017/05/Abeja-polinizadora.jpg)
+![Los insectos, como los vertebrados, proporcionan una gran cantidad de servicios ecosistémicos. Entre ellos, destaca la polinización de plantas cultivadas (Foto: David Álvarez, CC-by)](../temps/Fig3.jpg)
 
 ### Foto
 
-![Las plantas silvestres proporcionan un importante recurso alternativo para innumerables especies, por ejemplo de polinizadores](https://equitecbalearlapaz.files.wordpress.com/2016/04/dsc_0021.jpg?w=1000)
+![El mantenimiento de áreas de vegetación natural es una de las principales estrategias usadas, aunque no la única posible, para conservar especies y procesos ecológicos con implicación directa en la producción de cultivos (Foto: Nereida Melguizo, CC-by)](../temps/Fig4.jpg)
 
 Row
 -----------------------------------------------------------------------
 
 ### Citas {data-width=700}
 
-_"En la actualidad, nos enfrentamos al enorme desafío de mantener el equilibrio entre las necesidades humanas y la capacidad de los sistemas de proporcionarnos dichas necesidades"_  ([José Herrera](herreramirlo@gmail.com
+_"Gestionar el mosaico paisajístico en su conjunto, y no sólo el hábitat natural remanente, es fundamental para conservar la biodiversidad"_  ([José M. Herrera](https://herreralab.org/), CIBIO-InBIO, herreramirlo@gmail.com
 ))   
 
-_"La sociedad es parte fundamental no sólo del problema, tambien de la solución"_  ([Ignasi Bartomeus](www.bartomeuslab.com), EBD-CSIC, nacho.bartomeus@gmail.com)   
+_"El aporte de diferentes tipos de recursos tipos de recursos es vital para mantener una rica diversidad biológica en paisajes manejados"_  ([Javier Rodríguez-Pérez](), CIBIO-InBIO, jvr.rodriguez@gmail.com)   
 
 
 ### Recursos {data-width=340}
 
-- [Ted talk de Jonathan A. Foley](https://www.ted.com/talks/jonathan_foley_the_other_inconvenient_truth?language=es)
-- [Web "Ideas for Sustainability" de Joern Fischer](https://ideas4sustainability.wordpress.com/)
+- [Grupo de Trabajo de Agroecología](http://www.aeet.org/Agroecologia_440_p.htm)  
+- [Agricultura Ecológica en Europa](https://ec.europa.eu/agriculture/organic/index_es)  
+- [Ted talk de Jonathan A. Foley](https://www.ted.com/talks/jonathan_foley_the_other_inconvenient_truth?language=es)  
+- [Web "Ideas for Sustainability" de Joern Fischer](https://ideas4sustainability.wordpress.com/)  
 
 

@@ -21,9 +21,13 @@ Sidebar {.sidebar}
 - La regeneración de los bosques, el control de plagas y enfermedades o la regulación del ciclo de nutrientes, entre otros procesos, dependen en gran medida de estos animales.  
 - Al menos 338 especies se han extinguido en los últimos 500 años
 - Entre un 13% - 41% (dependiendo del grupo taxonómico) de todos los vertebrados del mundo están amenazados actualmente según la IUCN (ver gráfica).
-- Los vertebrados de mayor tamaño son los más vulnerables.
+- Los vertebrados de mayor tamaño son los más vulnerables.  
 
-![Porcentaje de vertebrados amenazados en la actualidad según la IUCN. Gráfica: N. Pérez-Méndez](http://nperezmendez.weebly.com/uploads/4/3/8/3/43834295/extincion_masiva.tiff)
+```{r echo=FALSE, message=FALSE, warning=FALSE, out.width= 200, paged.print=FALSE}
+knitr::include_graphics("../temps/defaunacion_IUCN2.jpg")
+```
+
+Porcentaje de vertebrados amenazados en la actualidad según la IUCN. Gráfica: N. Pérez-Méndez
 
 
 La defaunación
@@ -40,7 +44,7 @@ Row
 
 ### Foto
 
-![Mercado de Fetiches en Togo en el que se venden animales salvajes muertos. La sobreexplotación de estos animales es una de las causas principales de la defaunación. Foto: N. Butler (Mongabay.com)](http://mongabay.s3.amazonaws.com/africa/600/togo_0017.jpg)
+![Mercado de Fetiches en Togo en el que se venden animales salvajes muertos. La sobreexplotación de estos animales es una de las causas principales de la defaunación. (Foto: N. Butler (Mongabay.com)](http://mongabay.s3.amazonaws.com/africa/600/togo_0017.jpg)
 
 ### Foto
 
@@ -52,7 +56,7 @@ Row
 
 ### Foto
 
-![La deforestación y defaunación de los bosques tropicales disminuye el potencial que tiene la selva para stock de carbono. Ilustración: Pedro Jordano](http://ebd10.ebd.csic.es/figs/ongfigs/Fig1_SciAdv_LR_ES.jpg)
+![La deforestación y defaunación de los bosques tropicales disminuye el potencial que tiene la selva para stock de carbono. Ilustración: Pedro Jordano, CC-by](http://ebd10.ebd.csic.es/figs/ongfigs/Fig1_SciAdv_LR_ES.jpg)
 
 Row
 -----------------------------------------------------------------------

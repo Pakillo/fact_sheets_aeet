@@ -18,11 +18,11 @@ Sidebar {.sidebar}
 ### Los datos: 
 
 - La zona tropical contiene un 37% de la superficie terrestre.   
-- En la región tropical, la pérdida anual neta de superficie forestal entre 2000-2010 fue de aproximadamente 7 millones de hectareas.    
+- En la región tropical, la pérdida anual neta de superficie forestal entre 2000-2010 fue de aproximadamente 7 millones de hectáreas/año, lo que equivale aproximadamente a una pérdida de superficie del tamaño de España cada 7 años.       
 - Los bosques tropicales se distribuyen en las regiones de Asia y Pacífico (338 millones de hectáreas), África (529 millones de hectáreas) y América Latina y Caribe (924 millones de hectáreas).   
 - En los paises tropicales y subtropicales la agricultura comercial a gran escala y la agricultura de subsistencia originaron el 73% de la deforestación.   
 - El 89,15% de los bosques presentes en paises en desarrollo corresponden a bosques tropicales, frente al 10.85% de otro tipo de bosque en estas zonas.   
-- Se estima que en la Tierra pueden exisitir 450.000 especies de plantas con flores, de las que dos terceras partes viven en las regiones tropicales. Además una tercerca parte del total está en riesgo de extinción y se pueden extinguir a una tasa de entre 1000 y 10000 veces más rápido de lo que ha ocurrido en el pasado.  
+- Se estima que en la Tierra pueden existir 450.000 especies de plantas con flores, de las que dos terceras partes viven en las regiones tropicales. Además una tercerca parte del total está en riesgo de extinción y se pueden extinguir a una tasa de entre 1000 y 10000 veces más rápido de lo que ha ocurrido en el pasado.  
 - Las especies tropicales son más vulnerables al cambio climático porque tienen menor tolerancia térmica.  
 
 Biodiversidad en los trópicos
@@ -73,5 +73,5 @@ _“Entender el funcionamiento de los ecosistemas tropicales es vital para prote
 
 - Vídeo sobre [el estado de los bosques del mundo 2016](https://youtu.be/PyDSjI-NOGI)
 
-- Página de la red de biología tropical [Redtrop](http://www.redtrop.net/)
+- Twitter de la red de biología tropical: [Redtrop](https://twitter.com/redtrop)
 

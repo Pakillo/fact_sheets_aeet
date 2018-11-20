@@ -31,7 +31,7 @@ pie(x = c(7/n, 46/n, 24/n, 101/n, 663/n, 1101/n) ,
     labels = c("", "", "", "", "", ""),
     col = c("red", "orange", "yellow", "antiquewhite", "darkgreen", "grey"))
 ```
-Porcentage abejas amenazadas en Europa. Rojo (críticamente amenazadas) a verde (poco preocupantes). Gris (datos deficientes)- Datos: [IUCN](https://www.iucn.org/content/european-red-list-bees)
+Porcentage abejas amenazadas en Europa. De rojo (críticamente amenazadas) a verde (poco preocupantes). Gris (datos deficientes)- Datos: [IUCN](https://www.iucn.org/content/european-red-list-bees)
 
 La crisis de los polinizadores
 =======================================================================
@@ -48,19 +48,19 @@ Row
 
 ### Foto
 
-![Una abeja solitaria, _Anthidium florentinum_, visitando Lantana (CC)](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Anthidium_February_2008-1.jpg/300px-Anthidium_February_2008-1.jpg)
+![Una abeja solitaria, _Anthidium florentinum_, visitando Lantana (Foto: Wikimedia CC)](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Anthidium_February_2008-1.jpg/300px-Anthidium_February_2008-1.jpg)
 
 ### Foto
 
-![Un abejorro llevando pollen en sis cestas de pollen (corbicula) (CC)](https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Bumblebee_05.JPG/320px-Bumblebee_05.JPG)
+![Un abejorro llevando pollen en sus cestas de pollen (corbicula) (Foto: Wikimedia CC)](https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Bumblebee_05.JPG/320px-Bumblebee_05.JPG)
 
 ### Foto
 
-![La abeja solitaria _Osmia cornifrons_ nidifica en agujeros de la madera. (CC)](https://upload.wikimedia.org/wikipedia/commons/5/57/Osmia_cornifrons.5.1.08.w.jpg)
+![La abeja solitaria _Osmia cornifrons_ nidifica en agujeros de la madera. (Foto: Wikimedia CC)](https://upload.wikimedia.org/wikipedia/commons/5/57/Osmia_cornifrons.5.1.08.w.jpg)
 
 ### Foto
 
-![Los sirfidos tambien son buenos polinizadores _Episyrphus balteatus_ en una flor (CC)](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Hoverfly_October_2007-21.jpg/297px-Hoverfly_October_2007-21.jpg)
+![Los sirfidos tambien son buenos polinizadores. _Episyrphus balteatus_ en una flor (Foto: Wikimedia CC)](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Hoverfly_October_2007-21.jpg/297px-Hoverfly_October_2007-21.jpg)
 
 Row
 -----------------------------------------------------------------------
@@ -75,7 +75,6 @@ _"Para mantener una polinización estable necesitamos conservar las especies de 
 
 - [Video: Que les pasa a las abejas?](https://www.youtube.com/watch?v=n5udBqq3qYg)
 - [Articulo en quercus escrito por el grupo de trabajo ECOFLOR](https://ibartomeus.files.wordpress.com/2015/08/ecoflor_2016-declive-de-las-abejas-quercus.pdf)
-- [Especial crisis de los polinizadores en la revista Ecosistemas](www.revistaecosistemas.es)
-- Twitter de la Asociación Abejas Silvestres: [Abeja_silvestre](https://twitter.com/abeja_silvestre)
-
+- [Especial crisis de los polinizadores en la revista Ecosistemas](https://www.revistaecosistemas.net/index.php/ecosistemas/issue/view/55)  
+- Twitter de la Asociación Abejas Silvestres: [Abeja_silvestre](https://twitter.com/abeja_silvestre)  
 

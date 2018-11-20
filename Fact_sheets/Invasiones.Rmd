@@ -19,7 +19,7 @@ Sidebar {.sidebar}
 
 - Las especies invasoras están relacionadas directa o indirectamente con el 54% de las extinciones de especies y son actualmente una grave amenaza para la conservación del 27% de las especies incluidas en el Libro Rojo de la IUCN.  
 - Los costes directos e indirectos de las invasiones biológicas son difíciles de cuantificar, pero se estima que suponen alrededor del 5% del PIB global.  
-- Existen en la actualidad más 14.000 especies no nativas en territorio europeo, de acuerdo a las bases de datos centralizadas por EASIN ([European Alien Species Information Network](https://easin.jrc.ec.europa.eu/)).  
+- Existen en la actualidad más 14 000 especies no nativas en territorio europeo, de acuerdo a las bases de datos centralizadas por EASIN ([European Alien Species Information Network](https://easin.jrc.ec.europa.eu/)).  
 - Los costes ascienden a >20 millones de euros al año y no se espera que disminuyan, dado que en las últimas décadas el número de invasoras no ha dejado de crecer (76% entre 1970 y 2007).  
 - En España existen unas 1500 especies no-nativas, de las cuales 180 están incluidas en el Catálogo Nacional de Especies Invasoras ([CNEEI](http://www.mapama.gob.es/)).   
 - Ni tan siquiera los espacios protegidos se libran de esta amenaza. Existen al menos 180 especies no-nativas en los Parques Nacionales españoles, destacando las Islas Atlánticas de Galicia y Doñana como los parques más afectados.   
@@ -44,26 +44,26 @@ Row
 
 ### El Problema
 
-Las especies exóticas invasoras son animales, plantas u otros organismos introducidos por el hombre en áreas lejos de su rango de distribución histórico, donde se establecen y generan un impacto negativo sobre la biodiversidad, los servicios del ecosistema o el bienestar humano. Las invasoras constituyen una de las principales causas de extinción de especies y degradación ecosistemas en el mundo. Las especies invasoras compiten y desplazan a las especies nativas, con las que pueden hibridarse con la consiguiente contaminación genética (por ejemplo entre la invasora malvasía canela, _Oxyura jamaicensis_, y la autóctona malvasía cabeciblanca, _O. leucocephala_). En ocasiones las especies invasoras depredan sobre especies nativas, como es el caso del avispón asiático ( _Vespa velutina_) y la abeja de la miel. Las especies invasoras a menudo alteran profundamente el ambiente que colonizan, hasta el punto de denominarlas “ingenieros del ecosistema”, como es el caso del mejillón cebra ( _Dreissena polymorpha_) en el río Ebro, o el camalote ( _Eichornia crassipes_) en el Guadiana. Pero además suponen una grave amenaza para cultivos, ganado, seguridad alimentaria, nuestra salud y economía.
+Las especies exóticas invasoras son animales, plantas u otros organismos introducidos por el hombre en áreas lejos de su rango de distribución histórico, donde se establecen y generan un impacto negativo sobre la biodiversidad, los servicios del ecosistema o el bienestar humano. Las invasoras constituyen una de las principales causas de extinción de especies y degradación ecosistemas en el mundo. Las especies invasoras compiten y desplazan a las especies nativas, con las que pueden hibridarse con la consiguiente contaminación genética (por ejemplo entre la invasora malvasía canela, _Oxyura jamaicensis_, y la autóctona malvasía cabeciblanca, _O. leucocephala_). En ocasiones las especies invasoras depredan sobre especies nativas, como es el caso del avispón asiático ( _Vespa velutina_) y la abeja de la miel. Las especies invasoras a menudo alteran profundamente el ambiente que colonizan, hasta el punto de denominarlas “ingenieros del ecosistema”, como es el caso del mejillón cebra ( _Dreissena polymorpha_) en el río Ebro, o el camalote ( _Eichhornia crassipes_) en el Guadiana. Pero además suponen una grave amenaza para cultivos, ganado, seguridad alimentaria, nuestra salud y economía.
 
 Row
 -----------------------------------------------------------------------
 
 ### Foto
 
-![Planta exótica invasora _Oxalis pes-caprae_](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Oxalis-pes-caprae0016c.jpg/691px-Oxalis-pes-caprae0016c.jpg)
+![Planta exótica invasora _Oxalis pes-caprae_ (Foto: wikimedia CC)](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Oxalis-pes-caprae0016c.jpg/691px-Oxalis-pes-caprae0016c.jpg)
 
 ### Foto
 
-![Cinco vistas de una concha de Crepidula fornicata CC](https://upload.wikimedia.org/wikipedia/commons/f/fe/Crepidula_fornicata_01.JPG)
+![Cinco vistas de una concha de una lapa zapatilla común (_Crepidula fornicata_) (Foto: wikimedia CC)](https://upload.wikimedia.org/wikipedia/commons/f/fe/Crepidula_fornicata_01.JPG)
 
 ### Foto
 
-![La tortuga pintada, tortuga escurridiza o jicotea (_Trachemys scripta_)](https://upload.wikimedia.org/wikipedia/commons/c/c3/Pseudemys_scripta_scripta_-_Yellow-bellied_slider_02.jpg)
+![La tortuga pintada, tortuga escurridiza o jicotea (_Trachemys scripta_) (Foto: wikimedia CC)](https://upload.wikimedia.org/wikipedia/commons/c/c3/Pseudemys_scripta_scripta_-_Yellow-bellied_slider_02.jpg)
 
 ### Foto
 
-![La avispa asiática (_Vespa velutina_)](https://upload.wikimedia.org/wikipedia/commons/c/c8/Vespa_velutina_nigrithorax_MHNT_dos.jpg)
+![La avispa asiática (_Vespa velutina_) (Foto: wikimedia CC)](https://upload.wikimedia.org/wikipedia/commons/c/c8/Vespa_velutina_nigrithorax_MHNT_dos.jpg)
 
 Row
 -----------------------------------------------------------------------

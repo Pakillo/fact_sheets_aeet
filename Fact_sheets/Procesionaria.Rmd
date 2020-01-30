@@ -1,0 +1,79 @@
+---
+title: "AEET"
+author: "José A. Hódar"
+date: "`r Sys.Date()`"
+output: 
+  flexdashboard::flex_dashboard:
+    orientation: rows
+    social: menu
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+Sidebar {.sidebar}
+=======================================================================
+
+### Los datos: 
+
+- La procesionaria puede desarrollarse sobre cualquier especie de pino, aunque no todas son igualmente óptimas.
+- La susceptibilidad de un pinar depende de la especie de pino y de la mezcla de especies en el rodal.
+- La problemática de la procesionaria la han creado, sobre todo, las plantaciones.
+- Entre 1940 y 1984 se reforestaron en España 3,4 millones de Ha, 90% con coníferas (mayoritariamente pinos).
+- En este caldo de cultivo la procesionaria, con las temperaturas en ascenso, no puede sino prosperar.
+- El control de la procesionaria debe hacerse modificando el hábitat en el que se desarrolla para hacerlo menos susceptible a ella.
+
+La procesionaria del pino como ejemplo de plagas emergentes
+=======================================================================
+
+Row
+-----------------------------------------------------------------------
+
+### El Problema
+
+La combinación de calentamiento global y cambios en el uso del suelo ha provocado, en muchas especies consideradas plaga, un aumento en su virulencia y un incremento en su área de afección. La procesionaria del pino (_Thaumetopoea pityocampa_, Lepidoptera: Notodontidae), un defoliador ampliamente distribuido por los pinares circunmediterráneos, constituye un ejemplo paradigmático de esta tendencia merced a dos rasgos de su biología: su desarrollo larvario durante el invierno, muy limitado por las temperaturas mínimas invernales, se ve ahora francamente favorecido por el incremento de las temperaturas, y su alimentación sobre diversas especies de pinos le ha ofrecido condiciones idóneas para su expansión en las grandes plantaciones forestales efectuadas con coníferas en la segunda mitad del siglo XX.
+Las larvas de la procesionaria son muy urticantes en sus últimos estadíos larvarios, pudiendo causar problemas sanitarios a los seres humanos y animales domésticos, y este es uno de los principales problemas asociados a ella. Otro ha sido el pretendido daño sobre los pinares. Sin embargo, y pese a su fuerte impacto visual, la defoliación causada por la procesionaria del pino raramente causa la muerte de los árboles afectados. Incluso tras una defoliación masiva la merma de crecimiento y reproducción es sólo transitoria.
+Tradicionalmente se ha intentado controlar a la procesionaria mediante fumigaciones o trampeos con feromona, pero dichos procedimientos se han mostrado en general ineficaces y poco justificables en términos ecológicos y económicos. La gestión de su incidencia en los pinares debe combinar la promoción de depredadores y parasitoides, y métodos de control selectivos y menos agresivos (Btk), como la diversificación de los pinares. Se trata de conseguir que el bosque sea más resistente a la procesionaria sin necesidad de nuestra ayuda, más que de eliminarla de pinares que son muy susceptibles a ella.
+
+
+Row
+-----------------------------------------------------------------------
+
+### Foto
+
+![Larvas de quinto estado de procesionaria del pino en su bolsón invernal. Las setas urticantes se albergan en los pliegues dorsales de color castaño oscuro en el dorso de la larva. Wikimedia Commons](https://upload.wikimedia.org/wikipedia/commons/d/d6/Thaumetopoea_pityocampa_larva02.jpg)
+
+### Foto
+
+![Larvas en procesión para enterrarse y aupar. El período de pupación puede prolongarse desde unos pocos meses a varios años. Wikimedia commons](https://upload.wikimedia.org/wikipedia/commons/6/6d/Thaumetopoea_pityocampa.jpg)
+
+### Foto
+
+![Polilla de la procesionaria. La vida adulta es de apenas unas horas; tras emerger del suelo, las mariposas se aparean y hacen la puesta en una sola noche. Wikimedia Commons](https://upload.wikimedia.org/wikipedia/commons/c/c8/Traumatocampa_pityocampa01.jpg)
+
+### Foto
+
+![La polilla hace una única puesta de entre 100 y 300 huevos, que protege con escamas de su abdomen. Las larvas de una misma puesta suelen mantenerse juntas y son las que durante el invierno viven en el mismo bolsón. Wikimedia Commons](https://upload.wikimedia.org/wikipedia/commons/9/9a/Thaumetopoea_pityocampa_eggs01.jpg)
+
+Row
+-----------------------------------------------------------------------
+
+### Citas {data-width=700}
+
+_"Las defoliaciones repetidas (por procesionaria) inducen pérdidas a medio plazo en la frondosidad de la copa y en la producción de madera, aunque no implican la muerte del árbol (…) los árboles afectados por defoliaciones de procesionaria son capaces de recuperar los valores de crecimiento previos a las defoliaciones."_  ([Gabriel Sangüesa-Barreda](https://www.revistaecosistemas.net/index.php/ecosistemas/article/download/1060/893), Universidad de Valladolid, gabriel.sanguesa@uva.es)
+
+_"Si queremos asegurar el futuro de nuestros bosques, no sólo tendremos que gestionarlos activamente, sino que lo tendremos que hacer bajo criterios de sostenibilidad. Además, como nuevo requerimiento, deberemos hacer una gestión que ayude o facilite la adaptación de los ecosistemas forestales a las nuevas condiciones."_  ([José A. Hódar](http://ecologia.ugr.es/pages/personal/profesorado/j_a_hodar/index), Universidad de Granada, jhodar@ugr.es)   
+
+### Recursos {data-width=340}
+
+- [Roques A. 2015. Processionary Moths and Climate Change: An Update](https://link.springer.com/book/10.1007/978-94-017-9340-7)
+- [Hódar, J.A., Zamora, R., Cayuela, L. (2012). Cambio climático y plagas: algo más que el clima. Ecosistemas 21(3):73-78. Doi.: 10.7818/ECOS.2012.21-3.09](https://www.revistaecosistemas.net/index.php/ecosistemas/article/view/700)
+- [Thaumetopoea pityocampa. Data Sheets on Quarantine Pests, Prepared by CABI and EPPO for the EU](https://gd.eppo.int/download/doc/254_datasheet_THAUPI.pdf)
+- [Thaumetopoea pityocampa (pine processionary). Invasive Species Compendium, CABI](https://www.cabi.org/isc/datasheet/53501)
+- [Invasiones letales 2: La procesionaria del pino](https://www.documaniatv.com/naturaleza/invasores-letales-2-la-procesionaria-del-pino-video_9a7403335.html)
+
+
+
+
+

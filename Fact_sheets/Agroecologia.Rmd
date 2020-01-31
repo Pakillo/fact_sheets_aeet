@@ -1,16 +1,19 @@
 ---
 title: "AEET"
-author: "José Herrera (modificado por Julen Astigarraga)"
+author: "José Herrera"
 date: "`r Sys.Date()`"
-output:
-  html_document: default
-  pdf_document: default
+output: 
+  flexdashboard::flex_dashboard:
+    orientation: rows
+    social: menu
 ---
 
-<!--Problemas y soluciones: 
-1-pdf output: pdf es un poco conflictivo, os recomiendo instalar TinyTeX (https://yihui.org/tinytex/) si no teneis LaTeX instalado. Después de la instalación podreis crear archivos pdf. A mi tal como está el archivo ahora me genera un pdf bastante bonito.
-2-calidad de las imagenes: el tamaño de los html es dependiente de las figuras (resolución + tamaño) y dado que en vuestro caso son imágenes externas (no creadas en R) no sé cómo disminuir su resolución para que pesen menos. Quizás este post os ayude en algo: http://zevross.com/blog/2017/06/19/tips-and-tricks-for-working-with-images-and-figures-in-r-markdown-documents/
-Quizás haya modificado mucho el archivo, no sé... Quedaros con lo que os interese. Espero que sirva!-->
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+Sidebar {.sidebar}
+=======================================================================
 
 ### Los datos: 
 
@@ -19,43 +22,44 @@ Quizás haya modificado mucho el archivo, no sé... Quedaros con lo que os inter
 - Los cambios en el uso del suelo y la intensificación de las prácticas agrícolas están consideradas como los principales motores de pérdida global de biodiversidad
 - Todos los grupos taxonómicos, incluyendo animales y plantas, se ven afectados por estos cambios ambientales
 
-```{r, echo=FALSE, out.width="100%", message=FALSE, warning=FALSE, fig.cap = "Porcentage de área cultivada o cultivable en cuadrículas de 1 x 1 km. Extraído de [Fritz et al. 2015](http://onlinelibrary.wiley.com/doi/10.1111/gcb.12838/abstract)"}
+```{r, echo=FALSE, out.width="100%", message=FALSE, warning=FALSE}
 library(knitr)
 include_graphics("../temps/map.jpg")
-```
 
-\newpage 
+```
+Porcentage de área cultivada o cultivable en cuadrículas de 1 x 1 km. Extraído de [Fritz et al. 2015](http://onlinelibrary.wiley.com/doi/10.1111/gcb.12838/abstract)
 
 Conservación de la biodiversidad en sistemas agrícolas
 =======================================================================
+
+Row
+-----------------------------------------------------------------------
 
 ### El Problema
 
 Actualmente, los sistemas agrícolas están considerados como uno de los mayores biomas terrestres que existen en la tierra; los llamados agroecosistemas. Innumerables especies animales y vegetales, sin embargo, se han perdido o se perderán en el futuro con la conversión del paisaje a uso agrícola y/o la intensificación de las prácticas agrícolas. Con ello, determinados procesos ecológicos que garantizan no sólo la funcionalidad de los remanentes de hábitat natural, sino también nuestro propio bienestar (los así llamados servicios ecosistémicos), se ven mermados o extinguidos. Esto convierte a los agroecosistemas en un importante escenario de conservación de la biodiversidad no sólo desde un punto de vista ecológico, sino tambien desde una perspectiva social y económica. Así, la investigación de los mecanismos que garantizan la sostenibilidad del manejo y la producción de los agroecosistemas es esencial para garantizar la producción agrícola sin poner en riesgo la biodiversidad y en definitiva nuestro propio bienestar como seres humanos.        
 
+Row
+-----------------------------------------------------------------------
 
-### Fotos
+### Foto
 
-```{r, echo = FALSE, eval = TRUE, out.width="100%", fig.cap = "Muchas especies de vertebrados, como aves insectivoras, consumen grandes cantidades de insectos diariamente actuando así como efectivos controladores de plagas de cultivos (Foto: David Álvarez, CC-by)"}
-knitr::include_graphics("../temps/Fig1.jpg")
-```
+![Muchas especies de vertebrados, como aves insectivoras, consumen grandes cantidades de insectos diariamente actuando así como efectivos controladores de plagas de cultivos (Foto: David Álvarez, CC-by)](../temps/Fig1.jpg)
 
+### Foto
 
-```{r, echo = FALSE, eval = TRUE, out.width="100%",  fig.cap = "El uso de abrigos artificiales es una medida tan efectiva como sencilla para aumentar la biodiversidad dentro de los agroecosistemas (Foto: David Álvarez, CC-by)"}
-knitr::include_graphics("../temps/Fig2.jpg")
-```
+![El uso de abrigos artificiales es una medida tan efectiva como sencilla para aumentar la biodiversidad dentro de los agroecosistemas (Foto: David Álvarez, CC-by)](../temps/Fig2.jpg)
 
+### Foto
 
-```{r, echo = FALSE, eval = TRUE, out.width="100%",  fig.cap = "Los insectos, como los vertebrados, proporcionan una gran cantidad de servicios ecosistémicos. Entre ellos, destaca la polinización de plantas cultivadas (Foto: David Álvarez, CC-by)"}
-knitr::include_graphics("../temps/Fig3.jpg")
-```
+![Los insectos, como los vertebrados, proporcionan una gran cantidad de servicios ecosistémicos. Entre ellos, destaca la polinización de plantas cultivadas (Foto: David Álvarez, CC-by)](../temps/Fig3.jpg)
 
+### Foto
 
-```{r, echo = FALSE, eval = TRUE, out.width="100%",  fig.cap = "[El mantenimiento de áreas de vegetación natural es una de las principales estrategias usadas, aunque no la única posible, para conservar especies y procesos ecológicos con implicación directa en la producción de cultivos (Foto: Nereida Melguizo, CC-by)"}
-knitr::include_graphics("../temps/Fig4.jpg")
-```
+![El mantenimiento de áreas de vegetación natural es una de las principales estrategias usadas, aunque no la única posible, para conservar especies y procesos ecológicos con implicación directa en la producción de cultivos (Foto: Nereida Melguizo, CC-by)](../temps/Fig4.jpg)
 
-\newpage 
+Row
+-----------------------------------------------------------------------
 
 ### Citas {data-width=700}
 

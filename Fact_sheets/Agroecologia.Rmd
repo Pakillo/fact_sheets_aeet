@@ -8,7 +8,7 @@ output:
 ---
 
 <!--Problemas y soluciones: 
-1-pdf output: pdf es un poco conflictivo, os recomiendo instalar TinyTeX (https://yihui.org/tinytex/) si no teneis LaTeX instalado. Después de la instalación podreis crear archivos pdf.
+1-pdf output: pdf es un poco conflictivo, os recomiendo instalar TinyTeX (https://yihui.org/tinytex/) si no teneis LaTeX instalado. Después de la instalación podreis crear archivos pdf. A mi tal como está el archivo ahora me genera un pdf bastante bonito.
 2-calidad de las imagenes: el tamaño de los html es dependiente de las figuras (resolución + tamaño) y dado que en vuestro caso son imágenes externas (no creadas en R) no sé cómo disminuir su resolución para que pesen menos. Quizás este post os ayude en algo: http://zevross.com/blog/2017/06/19/tips-and-tricks-for-working-with-images-and-figures-in-r-markdown-documents/
 Quizás haya modificado mucho el archivo, no sé... Quedaros con lo que os interese. Espero que sirva!-->
 

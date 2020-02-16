@@ -42,19 +42,19 @@ Row
 
 ### Foto
 
-![Larvas de quinto estado de procesionaria del pino en su bolsón invernal. Las setas urticantes se albergan en los pliegues dorsales de color castaño oscuro en el dorso de la larva. Wikimedia Commons](https://upload.wikimedia.org/wikipedia/commons/d/d6/Thaumetopoea_pityocampa_larva02.jpg)
+![Larvas de quinto estado de procesionaria del pino en su bolsón invernal. Las setas urticantes se albergan en los pliegues dorsales de color castaño oscuro en el dorso de la larva. Wikimedia Commons](../temps/Thaumetopoea_pityocampa_larva02.jpg)
 
 ### Foto
 
-![Larvas en procesión para enterrarse y aupar. El período de pupación puede prolongarse desde unos pocos meses a varios años. Wikimedia commons](https://upload.wikimedia.org/wikipedia/commons/6/6d/Thaumetopoea_pityocampa.jpg)
+![Larvas en procesión para enterrarse y aupar. El período de pupación puede prolongarse desde unos pocos meses a varios años. Wikimedia commons](../temps/Thaumetopoea_pityocampa.jpg)
 
 ### Foto
 
-![Polilla de la procesionaria. La vida adulta es de apenas unas horas; tras emerger del suelo, las mariposas se aparean y hacen la puesta en una sola noche. Wikimedia Commons](https://upload.wikimedia.org/wikipedia/commons/c/c8/Traumatocampa_pityocampa01.jpg)
+![Polilla de la procesionaria. La vida adulta es de apenas unas horas; tras emerger del suelo, las mariposas se aparean y hacen la puesta en una sola noche. Wikimedia Commons](../temps/Traumatocampa_pityocampa01.jpg)
 
 ### Foto
 
-![La polilla hace una única puesta de entre 100 y 300 huevos, que protege con escamas de su abdomen. Las larvas de una misma puesta suelen mantenerse juntas y son las que durante el invierno viven en el mismo bolsón. Wikimedia Commons](https://upload.wikimedia.org/wikipedia/commons/9/9a/Thaumetopoea_pityocampa_eggs01.jpg)
+![La polilla hace una única puesta de entre 100 y 300 huevos, que protege con escamas de su abdomen. Las larvas de una misma puesta suelen mantenerse juntas y son las que durante el invierno viven en el mismo bolsón. Wikimedia Commons](../temps/Thaumetopoea_pityocampa_eggs01.jpg)
 
 Row
 -----------------------------------------------------------------------

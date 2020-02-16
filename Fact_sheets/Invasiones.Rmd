@@ -51,19 +51,19 @@ Row
 
 ### Foto
 
-![Planta exótica invasora _Oxalis pes-caprae_ (Foto: wikimedia CC)](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Oxalis-pes-caprae0016c.jpg/691px-Oxalis-pes-caprae0016c.jpg)
+![Planta exótica invasora _Oxalis pes-caprae_ (Foto: wikimedia CC)](../temps/440px-Oxalis-pes-caprae-16c-Zachi-Evenor.jpg)
 
 ### Foto
 
-![Cinco vistas de una concha de una lapa zapatilla común (_Crepidula fornicata_) (Foto: wikimedia CC)](https://upload.wikimedia.org/wikipedia/commons/f/fe/Crepidula_fornicata_01.JPG)
+![Cinco vistas de una concha de una lapa zapatilla común (_Crepidula fornicata_) (Foto: wikimedia CC)](../temps/Crepidula_fornicata_01.jpg)
 
 ### Foto
 
-![La tortuga pintada, tortuga escurridiza o jicotea (_Trachemys scripta_) (Foto: wikimedia CC)](https://upload.wikimedia.org/wikipedia/commons/c/c3/Pseudemys_scripta_scripta_-_Yellow-bellied_slider_02.jpg)
+![La tortuga pintada, tortuga escurridiza o jicotea (_Trachemys scripta_) (Foto: wikimedia CC)](../temps/Pseudemys_scripta_scripta_-_Yellow-bellied_slider_02.jpg)
 
 ### Foto
 
-![La avispa asiática (_Vespa velutina_) (Foto: wikimedia CC)](https://upload.wikimedia.org/wikipedia/commons/c/c8/Vespa_velutina_nigrithorax_MHNT_dos.jpg)
+![La avispa asiática (_Vespa velutina_) (Foto: wikimedia CC)](../temps/Vespa_velutina_nigrithorax_MHNT_dos.jpg)
 
 Row
 -----------------------------------------------------------------------

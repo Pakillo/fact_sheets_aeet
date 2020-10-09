@@ -44,7 +44,7 @@ Row
 
 ### Foto
 
-![Mercado de Fetiches en Togo en el que se venden animales salvajes muertos. La sobreexplotación de estos animales es una de las causas principales de la defaunación. (Foto: N. Butler (Mongabay.com)](http://mongabay.s3.amazonaws.com/africa/600/togo_0017.jpg)
+![Mercado de Fetiches en Togo en el que se venden animales salvajes muertos, una de las causas principales de la defaunación. (Foto: N. Butler (Mongabay.com)](http://mongabay.s3.amazonaws.com/africa/600/togo_0017.jpg)
 
 ### Foto
 
@@ -63,9 +63,9 @@ Row
 
 ### Citas {data-width=700}
 
-_"Conservar a los vertebrados de gran tamaño es fundamental para asegurar el buen funcionamiento de los ecosistemas"_  ([Néstor Pérez-Méndez](www.nperezmendez.weebly.com), IRNAD-CONICET, nestorperezmendez@gmail.com)   
+_"Conservar a los vertebrados de gran tamaño es fundamental para asegurar el buen funcionamiento de los ecosistemas"_  ([Néstor Pérez-Méndez](http://nperezmendez.weebly.com/), IRNAD-CONICET, nestorperezmendez@gmail.com)   
 
-_"Nos sorprendió comprobar lo rápidamente que la deforestación causó no sólo la desaparición de la fauna sino cómo influyó en la evolución rápida de las plantas, en muy pocas generaciones"_  ([Pedro Jordano](ebd10.ebd.csic.es), Estación Biológica de Doñana, CSIC, jordano@ebd.csic.es)   
+_"Nos sorprendió comprobar lo rápidamente que la deforestación causó no sólo la desaparición de la fauna sino cómo influyó en la evolución rápida de las plantas, en muy pocas generaciones"_  ([Pedro Jordano](http://ebd10.ebd.csic.es/), Estación Biológica de Doñana, CSIC, jordano@ebd.csic.es)   
 
 
 ### Recursos {data-width=340}

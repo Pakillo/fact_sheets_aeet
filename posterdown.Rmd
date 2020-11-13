@@ -1,0 +1,114 @@
+---
+title: La crisis de los polinizadores
+author:
+  - name: Ignasi Bartomeus
+    # affil: 1
+    twitter: ibartomeus
+    email: nacho.bartomeus@gmail.com
+    main: true
+# affiliation:
+#   - num: 1
+#     address: Estación Biológica de Doñana, CSIC
+
+
+
+main_findings:
+  - "LOS DATOS"
+  - "El 80% de las plantas dependen de los polinizadores para su reproducción"
+  - "El beneficio mundial de los polinizadores para los cultivos se estima en 153 billones de EUR anuales"
+  - "Los principales polinizadores en España son abejas, dípteros, escarabajos y lepidópteros"
+  - "Tan solo en España hay más de 1.000 species de abejas (el doble que de pájaros)" 
+  - "La mayoría de abejas viven solitarias y no producen miel"
+  # - '![](piechart_bees.png){.main_pic}'
+  - '<div style="text-align: center"><img src="piechart.svg" width="1200" height="800" /></div>'
+
+# logoleft_name: '![](https://raw.githubusercontent.com/brentthorne/posterdown/master/images/qr-code-black.png){.main-img-left}'
+logoright_name: '![](aeet.png){.main-img-right}'
+
+# title_textsize: "35pt"
+# affiliation_textsize: "18pt"
+# body_textsize: "40pt"
+main_textsize: "60pt"
+# sectitle_textsize: "25pt"
+# sectitle2_textsize: "20pt"
+# author_textsize: "25pt"
+# poster_height: "45in"
+# poster_width: "45in"
+main_width: 0.5
+
+output: 
+  posterdown::posterdown_betterland:
+    self_contained: false
+    pandoc_args: --mathjax
+    highlight: haddock
+    number_sections: false
+link-citations: true
+# bibliography: packages.bib
+---
+
+```{r, include=FALSE}
+library(knitr)
+knitr::opts_chunk$set(results = 'asis',
+                      echo = FALSE,
+                      warning = FALSE,
+                      tidy = FALSE,
+                      message = FALSE,
+                      fig.align = 'center',
+                      out.width = "100%")
+options(knitr.table.format = "html") 
+```
+
+
+### Las causas
+
+Las causas del declive de muchas especies de polinizadores son variadas. 
+
+La primera es la **pérdida de hábitat**. Más del 40% de la superficie terrestre libre de hielo está modificada por el hombre, especialmente para uso agrícola. Muchos polinizadores no pueden prosperar en estos ambientes ya que no encuentran alimento o sitios donde nidificar. 
+
+El **cambio climático** también afecta a los polinizadores, por ejemplo, su periodo de actividad ya ha avanzado unas dos semanas respecto a hace 50 años y el rango de distribución de los abejorros ha disminuído sustancialmente. 
+
+Las **especies exóticas** introducidas por el hombre también están trayendo consigo nuevos **patógenos**, algunos de ellos responsables de la casi desaparición de algunas especies de abejorro. 
+
+Finalmente, las abejas que pueden usar zonas agrícolas se ven expuestas a **pesticidas**. No es de extrañar que se vean afectadas por ellos, ya que los insecticidas, como los neonicotinoides y otros, están diseñados para matar insectos, pero también también se ven afectadas por los fungicidas, que eliminan su flora bacteriana, y los herbicidas, que reducen sus recursos florales.
+
+
+
+- *"A pesar de las amenazas, aún estamos a tiempo de conservar a los polinizadores y el precioso servicio que nos brindan, pero hemos de actuar ya"*  ([Ignasi Bartomeus](https://bartomeuslab.com))   
+- *"Para mantener una polinización estable necesitamos conservar las especies de polinizadores silvestres"*  ([Ainhoa Magrach](https://www.ainhoamagrach.com)) 
+
+<br>
+<br>
+<br>
+
+
+```{r out.height="420px", out.width="580px"}
+knitr::include_graphics("https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Anthidium_February_2008-1.jpg/300px-Anthidium_February_2008-1.jpg")
+```
+Una abeja solitaria, _Anthidium florentinum_, visitando Lantana (Foto: Wikimedia CC)
+
+
+```{r out.height="420px", out.width="580px"}
+knitr::include_graphics("https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Bumblebee_05.JPG/320px-Bumblebee_05.JPG")
+```
+Un abejorro llevando pollen en sus cestas de pollen (corbicula) (Foto: Wikimedia CC)
+
+
+```{r out.height="420px", out.width="580px"}
+knitr::include_graphics("https://upload.wikimedia.org/wikipedia/commons/5/57/Osmia_cornifrons.5.1.08.w.jpg")
+```
+La abeja solitaria _Osmia cornifrons_ nidifica en agujeros de la madera. (Foto: Wikimedia CC)
+
+
+```{r out.height="420px", out.width="580px"}
+knitr::include_graphics("https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Hoverfly_October_2007-21.jpg/297px-Hoverfly_October_2007-21.jpg")
+```
+Los sírfidos también son buenos polinizadores. _Episyrphus balteatus_ en una flor (Foto: Wikimedia CC)
+
+
+
+#### Recursos
+
+- [Video: Qué les pasa a las abejas?](https://www.youtube.com/watch?v=n5udBqq3qYg)
+- [Artículo en *Quercus* escrito por el grupo de trabajo ECOFLOR](https://ibartomeus.files.wordpress.com/2015/08/ecoflor_2016-declive-de-las-abejas-quercus.pdf)
+- [Especial crisis de los polinizadores en la revista *Ecosistemas*](https://www.revistaecosistemas.net/index.php/ecosistemas/issue/view/55)  
+- Twitter de la Asociación Abejas Silvestres: [Abeja_silvestre](https://twitter.com/abeja_silvestre)
